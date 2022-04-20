@@ -1,6 +1,7 @@
 # Exponentiation
 
 # RESOLVER TODAS LAS POSIBILIDADES DIAGRAMA DE FLUJO
+# No finalizado
 
 b = int(input("Insert base: "))
 n = int(input("Insert power: "))
